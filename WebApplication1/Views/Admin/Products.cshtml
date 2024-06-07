@@ -1,0 +1,38 @@
+﻿@model IEnumerable<WebApplication1.Models.Product>
+
+@{
+    ViewData["Title"] = "Manage Products";
+    Layout = "~/Views/Shared/admin-layout.cshtml";
+}
+
+<h2>Products</h2>
+<p>
+    <a href="@Url.Action("Create", "Products")" class="btn btn-primary">Create New Product</a>
+</p>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th>Category</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Description</td>
+                <td>@item.Price</td>
+                <td>@item.Category.Name</td>
+                <td>
+                    <a href="@Url.Action("Edit", "Products", new { id = item.Id })" class="btn btn-sm btn-warning">Edit</a>
+                    <a href="@Url.Action("Delete", "Products", new { id = item.Id })" class="btn btn-sm btn-danger">Delete</a>
+                    <a href="@Url.Action("Details", "Products", new { id = item.Id })" class="btn btn-sm btn-info">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

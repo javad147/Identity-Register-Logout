@@ -1,0 +1,33 @@
+﻿@model IEnumerable<WebApplication1.Models.ProductImage>
+
+@{
+    Layout = "~/Views/Shared/admin-layout.cshtml";
+}
+
+<h2>Product Images</h2>
+<p>
+    <a href="/ProductImages/Create" class="btn btn-primary">Add New Image</a>
+</p>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Image</th>
+            <th>Product</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td><img src="@item.ImageUrl" alt="@item.Product.Name" width="100"></td>
+                <td>@item.Product.Name</td>
+                <td>
+                    <a href="/ProductImages/Edit/@item.Id" class="btn btn-sm btn-warning">Edit</a>
+                    <a href="/ProductImages/Delete/@item.Id" class="btn btn-sm btn-danger">Delete</a>
+                    <a href="/ProductImages/Details/@item.Id" class="btn btn-sm btn-info">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,1013 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication1.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication1.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\css\\admin.css",
+      "PackagePath": "staticwebassets\\css\\admin.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\css\\spascing.css",
+      "PackagePath": "staticwebassets\\css\\spascing.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\css\\styel.css",
+      "PackagePath": "staticwebassets\\css\\styel.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\css\\swipper-bundle.css",
+      "PackagePath": "staticwebassets\\css\\swipper-bundle.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\fa-light-300.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-light-300.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\fa-light-300.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-light-300.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\fa-thin-100.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-thin-100.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\fa-thin-100.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-thin-100.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\flaticon_shofy.eot",
+      "PackagePath": "staticwebassets\\fonts\\flaticon_shofy.eot"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\flaticon_shofy.ttf",
+      "PackagePath": "staticwebassets\\fonts\\flaticon_shofy.ttf"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\flaticon_shofy.woff",
+      "PackagePath": "staticwebassets\\fonts\\flaticon_shofy.woff"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\fonts\\flaticon_shofy.woff2",
+      "PackagePath": "staticwebassets\\fonts\\flaticon_shofy.woff2"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\Product1\\blutooth-1.png",
+      "PackagePath": "staticwebassets\\image\\Product1\\blutooth-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\Product1\\blutooth-4.png",
+      "PackagePath": "staticwebassets\\image\\Product1\\blutooth-4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\Product1\\headphone-1.png",
+      "PackagePath": "staticwebassets\\image\\Product1\\headphone-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\Product1\\headphone-5.png",
+      "PackagePath": "staticwebassets\\image\\Product1\\headphone-5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\Product1\\headphone-8.png",
+      "PackagePath": "staticwebassets\\image\\Product1\\headphone-8.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\Product1\\ipad-1.png",
+      "PackagePath": "staticwebassets\\image\\Product1\\ipad-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\Product1\\mobile-1.png",
+      "PackagePath": "staticwebassets\\image\\Product1\\mobile-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\Product1\\mobile-5.png",
+      "PackagePath": "staticwebassets\\image\\Product1\\mobile-5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\Product1\\watch-1.png",
+      "PackagePath": "staticwebassets\\image\\Product1\\watch-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\Product1\\watch-5.png",
+      "PackagePath": "staticwebassets\\image\\Product1\\watch-5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\Product1\\watch-9.png",
+      "PackagePath": "staticwebassets\\image\\Product1\\watch-9.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\banner\\banner-slider-1.png",
+      "PackagePath": "staticwebassets\\image\\banner\\banner-slider-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\banner\\banner-slider-2.png",
+      "PackagePath": "staticwebassets\\image\\banner\\banner-slider-2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\banner\\banner-slider-3.png",
+      "PackagePath": "staticwebassets\\image\\banner\\banner-slider-3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\banner\\banner-slider-offer.png",
+      "PackagePath": "staticwebassets\\image\\banner\\banner-slider-offer.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\image\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\image\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\image\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\blog\\blog-big-1.jpg",
+      "PackagePath": "staticwebassets\\image\\blog\\blog-big-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\blog\\blog-big-3.jpg",
+      "PackagePath": "staticwebassets\\image\\blog\\blog-big-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\blog\\blog-grid-6.jpg",
+      "PackagePath": "staticwebassets\\image\\blog\\blog-grid-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\blog\\blog-grid-7.jpg",
+      "PackagePath": "staticwebassets\\image\\blog\\blog-grid-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\blog\\blog-grid-8.jpg",
+      "PackagePath": "staticwebassets\\image\\blog\\blog-grid-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\blog\\breadcrumb-bg-1.jpg",
+      "PackagePath": "staticwebassets\\image\\blog\\breadcrumb-bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\blog\\signature.png",
+      "PackagePath": "staticwebassets\\image\\blog\\signature.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\blog\\user-11.jpg",
+      "PackagePath": "staticwebassets\\image\\blog\\user-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\contact\\contact-icon-1.png",
+      "PackagePath": "staticwebassets\\image\\contact\\contact-icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\contact\\contact-icon-2.png",
+      "PackagePath": "staticwebassets\\image\\contact\\contact-icon-2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\contact\\contact-icon-3.png",
+      "PackagePath": "staticwebassets\\image\\contact\\contact-icon-3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\footer\\footer-pay.png",
+      "PackagePath": "staticwebassets\\image\\footer\\footer-pay.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\header\\header-call.svg",
+      "PackagePath": "staticwebassets\\image\\header\\header-call.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\header\\header-cart.svg",
+      "PackagePath": "staticwebassets\\image\\header\\header-cart.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\header\\header-cat-bar.svg",
+      "PackagePath": "staticwebassets\\image\\header\\header-cat-bar.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\header\\header-compare.svg",
+      "PackagePath": "staticwebassets\\image\\header\\header-compare.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\header\\header-love.svg",
+      "PackagePath": "staticwebassets\\image\\header\\header-love.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\header\\header-search.svg",
+      "PackagePath": "staticwebassets\\image\\header\\header-search.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\header\\header-truck.svg",
+      "PackagePath": "staticwebassets\\image\\header\\header-truck.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\header\\header-user.svg",
+      "PackagePath": "staticwebassets\\image\\header\\header-user.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\header\\product-cat-1.png",
+      "PackagePath": "staticwebassets\\image\\header\\product-cat-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\header\\product-cat-2.png",
+      "PackagePath": "staticwebassets\\image\\header\\product-cat-2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\header\\product-cat-3.png",
+      "PackagePath": "staticwebassets\\image\\header\\product-cat-3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\header\\product-cat-4.png",
+      "PackagePath": "staticwebassets\\image\\header\\product-cat-4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\header\\product-cat-5.png",
+      "PackagePath": "staticwebassets\\image\\header\\product-cat-5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\icon\\Arrow - Right.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\Arrow - Right.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\icon\\acce.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\acce.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\icon\\apple.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\apple.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\icon\\arrow-left.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\arrow-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\icon\\arrow-right.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\arrow-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\icon\\banner-arrow-right.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\banner-arrow-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\icon\\camera.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\camera.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\icon\\contact.png",
+      "PackagePath": "staticwebassets\\image\\icon\\contact.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\icon\\cooking.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\cooking.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\icon\\cross-out.png",
+      "PackagePath": "staticwebassets\\image\\icon\\cross-out.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\icon\\electronics.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\electronics.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\icon\\eye.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\eye.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\icon\\facebook.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\facebook.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\icon\\favicon.png",
+      "PackagePath": "staticwebassets\\image\\icon\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\icon\\gifts.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\gifts.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\icon\\google.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\google.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\icon\\home.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\home.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\icon\\language-flag.png",
+      "PackagePath": "staticwebassets\\image\\icon\\language-flag.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\icon\\location.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\location.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\icon\\mail.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\mail.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\icon\\mobile.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\mobile.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\icon\\monitor.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\monitor.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\icon\\payment-option.png",
+      "PackagePath": "staticwebassets\\image\\icon\\payment-option.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\icon\\preloader-circle-2.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\preloader-circle-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\icon\\preloader-circle.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\preloader-circle.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\icon\\preloader-icon.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\preloader-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\icon\\product-offer-more-arrow-right.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\product-offer-more-arrow-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\icon\\section-title-line-2.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\section-title-line-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\icon\\section-title-line.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\section-title-line.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\icon\\user.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\user.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\icon\\video.svg",
+      "PackagePath": "staticwebassets\\image\\icon\\video.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\instagram\\insta-icon.png",
+      "PackagePath": "staticwebassets\\image\\instagram\\insta-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\instagram\\instagram-1.jpg",
+      "PackagePath": "staticwebassets\\image\\instagram\\instagram-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\instagram\\instagram-2.jpg",
+      "PackagePath": "staticwebassets\\image\\instagram\\instagram-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\instagram\\instagram-3.jpg",
+      "PackagePath": "staticwebassets\\image\\instagram\\instagram-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\instagram\\instagram-4.jpg",
+      "PackagePath": "staticwebassets\\image\\instagram\\instagram-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\instagram\\instagram-5.jpg",
+      "PackagePath": "staticwebassets\\image\\instagram\\instagram-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\login\\login-shape-1.png",
+      "PackagePath": "staticwebassets\\image\\login\\login-shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\login\\login-shape-2.png",
+      "PackagePath": "staticwebassets\\image\\login\\login-shape-2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\login\\login-shape-3.png",
+      "PackagePath": "staticwebassets\\image\\login\\login-shape-3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\login\\login-shape-4.png",
+      "PackagePath": "staticwebassets\\image\\login\\login-shape-4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\logo\\logo.svg",
+      "PackagePath": "staticwebassets\\image\\logo\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\banner\\product-banner-1.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\banner\\product-banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\banner\\product-banner-2.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\banner\\product-banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\cartmini\\blutooth-1.png",
+      "PackagePath": "staticwebassets\\image\\product\\cartmini\\blutooth-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\cartmini\\cpu-1.png",
+      "PackagePath": "staticwebassets\\image\\product\\cartmini\\cpu-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\cartmini\\cpu-5.png",
+      "PackagePath": "staticwebassets\\image\\product\\cartmini\\cpu-5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\cartmini\\empty-cart.png",
+      "PackagePath": "staticwebassets\\image\\product\\cartmini\\empty-cart.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\cartmini\\headphone-5.png",
+      "PackagePath": "staticwebassets\\image\\product\\cartmini\\headphone-5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\cartmini\\headphone-6.png",
+      "PackagePath": "staticwebassets\\image\\product\\cartmini\\headphone-6.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\cartmini\\headphone-7.png",
+      "PackagePath": "staticwebassets\\image\\product\\cartmini\\headphone-7.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\cartmini\\headphone-8.png",
+      "PackagePath": "staticwebassets\\image\\product\\cartmini\\headphone-8.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\cartmini\\ipad-1.png",
+      "PackagePath": "staticwebassets\\image\\product\\cartmini\\ipad-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\cartmini\\mobile-5.png",
+      "PackagePath": "staticwebassets\\image\\product\\cartmini\\mobile-5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\cartmini\\product-cat-1.png",
+      "PackagePath": "staticwebassets\\image\\product\\cartmini\\product-cat-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\cartmini\\product-cat-2.png",
+      "PackagePath": "staticwebassets\\image\\product\\cartmini\\product-cat-2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\cartmini\\product-cat-3.png",
+      "PackagePath": "staticwebassets\\image\\product\\cartmini\\product-cat-3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\cartmini\\product-cat-4.png",
+      "PackagePath": "staticwebassets\\image\\product\\cartmini\\product-cat-4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\cartmini\\product-cat-5.png",
+      "PackagePath": "staticwebassets\\image\\product\\cartmini\\product-cat-5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\cartmini\\watch-9.png",
+      "PackagePath": "staticwebassets\\image\\product\\cartmini\\watch-9.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\check.svg",
+      "PackagePath": "staticwebassets\\image\\product\\check.svg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\gadget\\gadget-banner-1.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\gadget\\gadget-banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\gadget\\gadget-girl.png",
+      "PackagePath": "staticwebassets\\image\\product\\gadget\\gadget-girl.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\gadget\\headphone-5.png",
+      "PackagePath": "staticwebassets\\image\\product\\gadget\\headphone-5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\gadget\\headphone-6.png",
+      "PackagePath": "staticwebassets\\image\\product\\gadget\\headphone-6.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\gadget\\headphone-7.png",
+      "PackagePath": "staticwebassets\\image\\product\\gadget\\headphone-7.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\menu-home-1.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\menu-home-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\menu-home-2.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\menu-home-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\menu-home-3.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\menu-home-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\menu-home-4.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\menu-home-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\product\\brand-1.png",
+      "PackagePath": "staticwebassets\\image\\product\\product\\brand-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\product\\brand-2.png",
+      "PackagePath": "staticwebassets\\image\\product\\product\\brand-2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\product\\brand-3.png",
+      "PackagePath": "staticwebassets\\image\\product\\product\\brand-3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\product\\brand-4.png",
+      "PackagePath": "staticwebassets\\image\\product\\product\\brand-4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\product\\brand-5.png",
+      "PackagePath": "staticwebassets\\image\\product\\product\\brand-5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\product\\brand-6.png",
+      "PackagePath": "staticwebassets\\image\\product\\product\\brand-6.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\product\\brand-7.png",
+      "PackagePath": "staticwebassets\\image\\product\\product\\brand-7.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\product\\brand-8.png",
+      "PackagePath": "staticwebassets\\image\\product\\product\\brand-8.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\product\\menu-product-img-1.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\product\\menu-product-img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\product\\menu-product-img-2.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\product\\menu-product-img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\product\\user-2.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\product\\user-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\product\\user-3.jpg",
+      "PackagePath": "staticwebassets\\image\\product\\product\\user-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\shop\\headphone-1.png",
+      "PackagePath": "staticwebassets\\image\\product\\shop\\headphone-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\shop\\headphone-5.png",
+      "PackagePath": "staticwebassets\\image\\product\\shop\\headphone-5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\shop\\headphone-6.png",
+      "PackagePath": "staticwebassets\\image\\product\\shop\\headphone-6.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\shop\\headphone-7.png",
+      "PackagePath": "staticwebassets\\image\\product\\shop\\headphone-7.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\product\\shop\\headphone-8.png",
+      "PackagePath": "staticwebassets\\image\\product\\shop\\headphone-8.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\shop\\cpu-1.png",
+      "PackagePath": "staticwebassets\\image\\shop\\cpu-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\shop\\cpu-5.png",
+      "PackagePath": "staticwebassets\\image\\shop\\cpu-5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\shop\\headphone-1.png",
+      "PackagePath": "staticwebassets\\image\\shop\\headphone-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\shop\\headphone-5.png",
+      "PackagePath": "staticwebassets\\image\\shop\\headphone-5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\shop\\headphone-8.png",
+      "PackagePath": "staticwebassets\\image\\shop\\headphone-8.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\shop\\ipad-1.png",
+      "PackagePath": "staticwebassets\\image\\shop\\ipad-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\shop\\mobile-1.png",
+      "PackagePath": "staticwebassets\\image\\shop\\mobile-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\shop\\mobile-5.png",
+      "PackagePath": "staticwebassets\\image\\shop\\mobile-5.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\shop\\watch-1.png",
+      "PackagePath": "staticwebassets\\image\\shop\\watch-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\slider\\shape\\slider-shape-1.png",
+      "PackagePath": "staticwebassets\\image\\slider\\shape\\slider-shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\slider\\shape\\slider-shape-2.png",
+      "PackagePath": "staticwebassets\\image\\slider\\shape\\slider-shape-2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\slider\\shape\\slider-shape-3.png",
+      "PackagePath": "staticwebassets\\image\\slider\\shape\\slider-shape-3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\slider\\shape\\slider-shape-4.png",
+      "PackagePath": "staticwebassets\\image\\slider\\shape\\slider-shape-4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\slider\\slider-img-1.png",
+      "PackagePath": "staticwebassets\\image\\slider\\slider-img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\slider\\slider-img-2.png",
+      "PackagePath": "staticwebassets\\image\\slider\\slider-img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\slider\\slider-img-3.png",
+      "PackagePath": "staticwebassets\\image\\slider\\slider-img-3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\subscribe\\plane.png",
+      "PackagePath": "staticwebassets\\image\\subscribe\\plane.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\subscribe\\subscribe-shape-1.png",
+      "PackagePath": "staticwebassets\\image\\subscribe\\subscribe-shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\subscribe\\subscribe-shape-2.png",
+      "PackagePath": "staticwebassets\\image\\subscribe\\subscribe-shape-2.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\subscribe\\subscribe-shape-3.png",
+      "PackagePath": "staticwebassets\\image\\subscribe\\subscribe-shape-3.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\image\\subscribe\\subscribe-shape-4.png",
+      "PackagePath": "staticwebassets\\image\\subscribe\\subscribe-shape-4.png"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\countdown.js",
+      "PackagePath": "staticwebassets\\js\\countdown.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\imagesloaded-pkgd.js",
+      "PackagePath": "staticwebassets\\js\\imagesloaded-pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\magnific-popup.js",
+      "PackagePath": "staticwebassets\\js\\magnific-popup.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\meanmenu.js",
+      "PackagePath": "staticwebassets\\js\\meanmenu.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\nice-select.js",
+      "PackagePath": "staticwebassets\\js\\nice-select.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\range-slider.js",
+      "PackagePath": "staticwebassets\\js\\range-slider.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\slick.js",
+      "PackagePath": "staticwebassets\\js\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\swiper-bundle.js",
+      "PackagePath": "staticwebassets\\js\\swiper-bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\js\\wow.js",
+      "PackagePath": "staticwebassets\\js\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\User\\Desktop\\WebApplication1\\WebApplication1\\wwwroot\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\sass\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApplication1.props",
+      "PackagePath": "build\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication1.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApplication1.props",
+      "PackagePath": "buildTransitive\\WebApplication1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

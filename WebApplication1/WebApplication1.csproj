@@ -1,0 +1,83 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Новая папка1\**" />
+    <Compile Remove="Новая папка\**" />
+    <Content Remove="Новая папка1\**" />
+    <Content Remove="Новая папка\**" />
+    <EmbeddedResource Remove="Новая папка1\**" />
+    <EmbeddedResource Remove="Новая папка\**" />
+    <None Remove="Новая папка1\**" />
+    <None Remove="Новая папка\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\image\header\header-call.svg" />
+    <None Include="wwwroot\image\header\header-cart.svg" />
+    <None Include="wwwroot\image\header\header-cat-bar.svg" />
+    <None Include="wwwroot\image\header\header-compare.svg" />
+    <None Include="wwwroot\image\header\header-love.svg" />
+    <None Include="wwwroot\image\header\header-search.svg" />
+    <None Include="wwwroot\image\header\header-truck.svg" />
+    <None Include="wwwroot\image\header\header-user.svg" />
+    <None Include="wwwroot\image\icon\acce.svg" />
+    <None Include="wwwroot\image\icon\apple.svg" />
+    <None Include="wwwroot\image\icon\Arrow - Right.svg" />
+    <None Include="wwwroot\image\icon\arrow-left.svg" />
+    <None Include="wwwroot\image\icon\arrow-right.svg" />
+    <None Include="wwwroot\image\icon\banner-arrow-right.svg" />
+    <None Include="wwwroot\image\icon\camera.svg" />
+    <None Include="wwwroot\image\icon\cooking.svg" />
+    <None Include="wwwroot\image\icon\electronics.svg" />
+    <None Include="wwwroot\image\icon\eye.svg" />
+    <None Include="wwwroot\image\icon\facebook.svg" />
+    <None Include="wwwroot\image\icon\gifts.svg" />
+    <None Include="wwwroot\image\icon\google.svg" />
+    <None Include="wwwroot\image\icon\home.svg" />
+    <None Include="wwwroot\image\icon\location.svg" />
+    <None Include="wwwroot\image\icon\mail.svg" />
+    <None Include="wwwroot\image\icon\mobile.svg" />
+    <None Include="wwwroot\image\icon\monitor.svg" />
+    <None Include="wwwroot\image\icon\preloader-circle-2.svg" />
+    <None Include="wwwroot\image\icon\preloader-circle.svg" />
+    <None Include="wwwroot\image\icon\preloader-icon.svg" />
+    <None Include="wwwroot\image\icon\product-offer-more-arrow-right.svg" />
+    <None Include="wwwroot\image\icon\section-title-line-2.svg" />
+    <None Include="wwwroot\image\icon\section-title-line.svg" />
+    <None Include="wwwroot\image\icon\user.svg" />
+    <None Include="wwwroot\image\icon\video.svg" />
+    <None Include="wwwroot\image\logo\logo.svg" />
+    <None Include="wwwroot\image\product\check.svg" />
+    <None Include="wwwroot\js\bootstrap.js" />
+    <None Include="wwwroot\js\countdown.js" />
+    <None Include="wwwroot\js\imagesloaded-pkgd.js" />
+    <None Include="wwwroot\js\jquery.js" />
+    <None Include="wwwroot\js\magnific-popup.js" />
+    <None Include="wwwroot\js\meanmenu.js" />
+    <None Include="wwwroot\js\nice-select.js" />
+    <None Include="wwwroot\js\range-slider.js" />
+    <None Include="wwwroot\js\script.js" />
+    <None Include="wwwroot\js\site.js" />
+    <None Include="wwwroot\js\slick.js" />
+    <None Include="wwwroot\js\swiper-bundle.js" />
+    <None Include="wwwroot\js\wow.js" />
+    <None Include="wwwroot\sass\style.scss" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="6.0.29" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.29" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.29">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
+  </ItemGroup>
+
+</Project>

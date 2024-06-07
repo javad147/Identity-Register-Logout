@@ -1,0 +1,33 @@
+﻿@model IEnumerable<WebApplication1.Models.Category>
+
+@{
+    Layout = "~/Views/Shared/admin-layout.cshtml";
+}
+
+<h2>Categories</h2>
+<p>
+    <a href="/Categories/Create" class="btn btn-primary">Create New</a>
+</p>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Description</td>
+                <td>
+                    <a href="/Categories/Edit/@item.Id" class="btn btn-sm btn-warning">Edit</a>
+                    <a href="/Categories/Delete/@item.Id" class="btn btn-sm btn-danger">Delete</a>
+                    <a href="/Categories/Details/@item.Id" class="btn btn-sm btn-info">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
